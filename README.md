@@ -1,4 +1,5 @@
-# python-teaching
+# Python Teaching 
 
-this repository contains elementary python lectures for about 10h. 
-All notebooks will contain questions and simple exercices to understand the different notions. 
+### List of files that will be used as support the lectures. 
+Files : [Jupyter notebooks](https://jupyter.org/)
+
